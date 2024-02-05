@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>康文昌的在线HTML 教学小工具</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="
+    background-color:#f1f99998;
+    text-align: center;
+    padding:30px;
+    ">
+      <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7083fb7e-9c86-4143-92cd-7fb9fb1c3997/original=true/image_00005_.jpeg" alt="土豆加盐的AI画室" width="512px" height="720px">
+    </div>
+    <div style="
+    max-width:700px;
+    margin:40px auto;
+    padding:20px;
+    line-height:1.2;
+    
+    ">
+      <p style="font-size:4rem;font-family:微软雅黑;color:#f16f21">我是土豆加盐</p>
+      <p style="font-size:1rem;font-family:黑体;color:#A00">兄弟，请再来点量子纠缠的味道</p>
+    </div>
+    <div style="
+    background-color:#f1f1;
+    text-align: center;
+    padding:30px;
+    front-size:16px;
+    ">
+    <p style="font-size:2rem;font-family:微软雅黑;color:#A3300">我的后厨房</p>
+    <a  href="https://civitai.com/images/6011955">友情链接</a>
+    </div>
+  </body>
+</html>
